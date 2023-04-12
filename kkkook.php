@@ -173,8 +173,6 @@ Soon we will provide communication via qTox Only, save this and contact us via q
 Download qTox: <a href="https://tox.chat/download.html">Click here & download qTox</a>
 
 qTox ID: B8077CB59A6C0BB3639D1EC78DB766E21DE3D48560BFA7D120876B8D72425A7B9C259F5FAD23
-Telegram Official Channel: <a href="https://t.me/hydramarketrebuild">@hydramarketrebuild</a>
-Telegram ID: <a href="https://t.me/clubhydra">@clubhydra</a>
 <style type="text/css">
 			.blink {
 			animation: blinker 0.6s linear infinite;
