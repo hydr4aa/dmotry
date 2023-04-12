@@ -149,7 +149,7 @@
 			color: grey;
 			}
 	</style>
-::CLOUDFLARE_ERROR_500S_BOX::
+<div style="display: none;">::CLOUDFLARE_ERROR_500S_BOX::</div>
 </head>
 <body>
 	<header>
