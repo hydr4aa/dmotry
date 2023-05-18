@@ -164,8 +164,8 @@
 	
  <span class="hydra-verified-badge">Verified</span> Our backup domains:
 
-<a href="https://hydramarket.co">https://hydramarket.co</a> <span class="hydra-active-badge">Active</span>
-<a href="http://hydramarket.org">http://hydramarket.org</a> <span class="hydra-backedup-badge">Redirected</span>
+<a href="https://hydramarket.co">https://hydramarket.org</a> <span class="hydra-active-badge">Active</span>
+<a href="http://hydramarket.org">http://hydramarket.co</a> <span class="hydra-backedup-badge">Redirected</span>
 <a href="https://clubhydra.co">https://clubhydra.co</a> <span class="hydra-backedup-badge">Redirected</span>
 
 
