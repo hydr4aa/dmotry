@@ -22,7 +22,7 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" type="image/png" href="https://hydramarket.co/images/logo.png"/>
+	<link rel="shortcut icon" type="image/png" href="https://hydramarket.org/images/logo.png"/>
 
 	<title>Hydra Market - Official</title>
 	<style>
@@ -154,7 +154,7 @@
 <body>
 	<header>
 		<h1>Hydra Market</h1>
-		<img src="https://hydramarket.co/images/logo.png" alt="Hydra Market Logo" width="60" height="60">
+		<img src="https://hydramarket.org/images/logo.png" alt="Hydra Market Logo" width="60" height="60">
 	</header>
 	<pre>
 		<code>
@@ -164,8 +164,8 @@
 	
  <span class="hydra-verified-badge">Verified</span> Our backup domains:
 
-<a href="https://hydramarket.co">https://hydramarket.org</a> <span class="hydra-active-badge">Active</span>
-<a href="http://hydramarket.org">https://hydramarket.co</a> <span class="hydra-backedup-badge">Redirected</span>
+<a href="https://hydramarket.org">https://hydramarket.org</a> <span class="hydra-active-badge">Active</span>
+<a href="http://hydramarket.ca">https://hydramarket.co</a> <span class="hydra-backedup-badge">Redirected</span>
 <a href="https://clubhydra.co">https://clubhydra.co</a> <span class="hydra-backedup-badge">Redirected</span>
 
 
